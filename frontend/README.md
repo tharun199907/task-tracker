@@ -57,4 +57,8 @@ task-tracker/
 │ └── styles/
 │ └── app.css
 │
+<<<<<<< HEAD
 └── README.md
+=======
+└── README.md
+>>>>>>> 7f7e32fdf4c9fca32d8c4977316da7bed133ada2
