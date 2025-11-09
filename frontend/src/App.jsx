@@ -47,7 +47,7 @@ export default function App() {
   };
 
   return (
-    <div style={{ padding:20, width:"95vw", height:"93Vh", backgroundColor: "#71a8faff", marginTop:"0px" }}>
+    <div style={{ padding:20, width:"95vw", height:"93Vh", backgroundColor: "#71a8faff", marginTop:"0px", overflow: "auto" }}>
       <h1>Task Tracker — Smart Insights</h1>
       <div style={{ display: 'flex', gap: 0 }}>
         <div style={{ flex: 1 }}>
